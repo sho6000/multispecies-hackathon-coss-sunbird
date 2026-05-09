@@ -17,13 +17,7 @@ Core Challenge Tracks Participants will form teams to build practical prototypes
 - - [Knowlg](https://github.com/Sunbird-Knowlg/knowledge-platform/blob/master/README.md)
 - - [Lern](https://github.com/Sunbird-Lern/lern-service/blob/main/README.md)
 
----
 
-## Sunbird Knowledge
-- [SB Knowledge Repository](https://github.com/Sunbird-Knowlg/knowledge-platform/blob/master/README.md) | Official Sunbird Spark documention to checkout and contribute!
-- [Checkout our Sunbird Spark on a Website](https://sandbox.sunbirded.org/) | Test and see what our Sunbird Spark looks like!
-
----
 
 ## Sunbird RC Documentation
 
@@ -32,6 +26,10 @@ Core Challenge Tracks Participants will form teams to build practical prototypes
 - [RC Setup](https://github.com/sho6000/multispecies-hackathon-coss-sunbird/blob/main/rc-setup.md#rc-final--local-development-setup-guide) | Setup Sunbird RC locally
 - [Fork RC Respository](https://github.com/pallakartheekreddy/rc-final) | RC repository, start building from!
 
+## Sunbird Obsrv
+
+- [Obsrv repo](https://github.com/Sanketika-Obsrv/obsrv-automation)
+- [Checkout](https://obsrv.sunbird.org/)
 ---
 
 ~Start Contribute.
